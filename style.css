@@ -1,0 +1,601 @@
+.jumbo {
+    background-image: url('./bg.jpg');
+    height: 32vh;
+    opacity: 1;    
+    border-radius: 0rem;
+}
+.container {
+    margin-top: -1rem;
+}
+.body {
+    overflow: hidden;
+}
+
+.h2-title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 0rem; 
+    font-size: x-large;
+    font-weight: 150;
+}
+
+.smt-btn{
+    margin-top: 0rem;
+    text-align: center;
+    padding: 0.2rem;
+}
+
+.round-img {
+    border-radius: 80%;
+    height: 5vh;
+    width: 3vw;
+}
+
+
+.table-bordered {
+    padding: 14px;
+}
+.box-1{
+    height: 24vh;
+    margin-right: 1.5rem;
+    margin-left: 1rem;
+    width: 19vw;
+    border-bottom: green solid 4px;
+}
+.box-2{
+    height: 24vh;
+    margin-right: 1.5rem;
+    width: 19vw;
+    border-bottom: blue solid 4px;
+}
+.box-3{
+    height: 24vh;
+    margin-right: 1.5rem;
+    width: 19vw;
+    border-bottom: maroon solid 4px;
+}
+.box-4{
+    height: 24vh;
+    width: 19vw;
+    border-bottom: lightskyblue solid 4px;
+}
+#singlebutton{
+    margin-bottom: 1rem;
+    margin-top: -1rem;
+}
+.sterr {
+    height: 5vh;
+    width: 5vw;
+    margin-left: 4rem;
+    margin-top: -0.5rem;
+}
+.title-middle{
+    text-align: center;
+    font-size: 19px;
+}
+.box-sm {
+    height: 5.5vh;
+    width: 2.5vw;
+    background-color: #258ad9;
+    margin-right: auto;
+}
+.box-img {
+    height: 4vh;
+    width: 2vw;
+    margin-left: 0.2rem;
+} 
+.t1 {
+    margin-left: 0.1rem;
+    font-size: 1.3rem;
+    margin-right: auto;
+}
+.t2 {
+    font-weight: bold;
+    font-size: 0.8rem;
+    margin-top: 0.3rem;
+    /* margin-left: auto; */
+    margin-right: 1.9rem;
+}
+.nav-box-1 {
+    height: 8vh;
+    width: 20vw;
+    background-color: #c6cacf;
+    margin-right: 1rem;
+}
+.nav-box-2 {
+    height: 8vh;
+    width: 20vw;
+    background-color: #c6cacf;
+    margin-right: 1rem;
+
+}
+.nav-box-3 {
+    height: 8vh;
+    width: 20vw;
+    background-color: #c6cacf;
+    margin-right: 1rem;
+
+}
+.nav-box-grey-3 {
+    height: 8vh;
+    width: 20vw;    
+    margin-right: 1rem;
+
+}
+.nav-box-4 {
+    height: 8vh;
+    width: 20vw;
+    background-color: #c6cacf;
+}
+.box-large {
+    height: 55vh;
+    width: 96.5%;
+    background-color: #f0f1f2;
+    margin-left: -0.9rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    vertical-align: center;
+    /* margin-right: 2rem; */
+}
+.title-p {
+    margin-left: 4.4rem;
+    font-size: 1rem;
+    margin-top: 2.4rem;
+}
+.title-p-4 {
+    margin-left: 11.2rem;
+    font-size: 1rem;
+    margin-top: 2.4rem;
+}
+.title-p-val {
+    margin-left: 4.4rem;
+    font-size: 1rem;
+    /* margin-top: 0.1rem; */
+    font-weight: bold;
+}
+.title-p-val-2 {
+    margin-left: 6rem;
+    font-size: 1rem;
+    /* margin-top: 0.1rem; */
+    font-weight: bold;
+}
+.title-p-val-3 {
+    margin-left: 7rem;
+    font-size: 1rem;
+    /* margin-top: 0.1rem; */
+    font-weight: bold;
+}
+.title-p-val-5{
+    margin-left: 6.5rem;
+    font-size: 1rem;
+    /* margin-top: 0.1rem; */
+    font-weight: bold;
+}
+
+.more-details {
+    font-size: 3rem;
+    color: #dfe2e6;
+    /* text-align: center; */
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.5rem;
+}
+.blue-box {
+    background-color: #3c6bab;
+    color: whitesmoke;
+}
+.grey-box {
+    background-color: #888b8f;
+    color: whitesmoke;
+    margin-left: auto;
+    margin-right: 21.21rem;
+    margin-top: 0.1rem;
+    margin-bottom: -2rem;
+}
+
+.submit-btn {
+    height: 7vh;
+    width: 9vw;
+    margin-left: 34rem;
+    margin-right: auto;
+    border-radius: 0.2rem;
+    text-align: center;
+    align-items: center;
+    margin-top: -1.5rem;
+ 
+}
+
+/*..................Maliha (Screen 5)....................*/
+
+.screen-5 h1 {
+    text-align: center;
+    color: white;
+    width: 100%;
+  }
+ 
+  .screen-5 .jumbo {
+    background-image: url("./bg.jpg");
+    height: 32vh;
+    opacity: 1;
+    border-radius: 0rem;
+  }
+  .screen-5 .round-img {
+    border-radius: 80%;
+    height: 5vh;
+    width: 3vw;
+  }
+  .screen-5 .h2-title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 0rem;
+    font-size: x-large;
+    font-weight: 150;
+    color: whitesmoke;
+  }
+  /* .screen-5 .jumbotron {
+    padding-top: 0;
+    background-image: url("./bg.jpg");
+    background-size: cover;
+  } */
+  .screen-5 .navbar {
+    padding-bottom: 3vw;
+    width: 100%;
+  }
+  .screen-5 .arrow {
+    height: 2vw;
+    width: 2vw;
+    margin-left: 1vw;
+  }
+  .screen-5 .avatar {
+    vertical-align: middle;
+    width: 3vw;
+    height: 3vw;
+    border-radius: 50%;
+    margin-right: 1vw;
+  }
+  .screen-5 .name {
+    margin-bottom: 0;
+    color: white;
+  }
+  .screen-5 .container2 {
+    margin-left: 6vw;
+    margin-right: 6vw;
+    width: 90vw;
+  }
+  .screen-5 .container3 {
+    background-color: #f1f0f0;
+  }
+  .screen-5 .bluetext {
+    color: #467de4;
+  }
+  .screen-5 .route {
+    margin: 0;
+  }
+  .screen-5 .subheading {
+    text-align: center;
+    font-size: 1.5em;
+    margin: 0;
+  }
+  .screen-5 .leftsubheading {
+    font-size: 1.75em;
+  }
+  .screen-5 .wheel {
+    padding-bottom: 10px;
+  }
+  .screen-5 .rightsubheading {
+    text-align: right;
+    padding-top: 10px;
+    font-weight: bold;
+  }
+  .screen-5 .lhead {
+    margin: 0;
+  }
+  .screen-5 .col-sm {
+    padding: 0;
+  }
+  .screen-5 .pad {
+    padding: 20px;
+  }
+  .screen-5 .answer {
+    font-size: 1.5em;
+    color: grey;
+  }
+  .screen-5 .dropdown {
+    width: 75%;
+    margin-top: 2vw;
+  }
+  .screen-5 .container4 {
+    padding: 3vw;
+    text-align: center;
+  }
+  .screen-5 .container5 {
+    text-align: center;
+    padding-bottom: 3vw;
+    color: #467de4;
+    text-decoration: underline;
+  }
+  .screen-5 .btn {
+    margin: 0vw 0.5vw;
+    width: 10vw;
+  }
+  .screen-5 .mycolor {
+    background-color: #467de4;
+    color: white;
+  }
+
+
+  /*................Maliha (Screen 6)....................*/
+  .screen-6 h1 {
+    text-align: center;
+    color: white;
+    width: 100%;
+  }
+
+  .screen-6 .navbar {
+    padding-bottom: 3vw;
+    width: 100%;
+  }
+  .screen-6 .arrow {
+    height: 2vw;
+    width: 2vw;
+    margin-left: 1vw;
+  }
+  .screen-6 .avatar {
+    vertical-align: middle;
+    width: 3vw;
+    height: 3vw;
+    border-radius: 50%;
+    margin-right: 1vw;
+  }
+  .screen-6 .name {
+    margin-bottom: 0;
+    color: white;
+  }
+  .screen-6 .container2 {
+    margin-left: 6vw;
+    margin-right: 6vw;
+    width: 90vw;
+  }
+  .screen-6 .container3 {
+    background-color: #f1f0f0;
+    margin-bottom: 3vw;
+  }
+  .screen-6 .bluetext {
+    color: #467de4;
+  }
+  .screen-6 .route {
+    margin: 0;
+  }
+  .screen-6 .mainheading {
+    margin: 0;
+    font-weight: 500;
+  }
+  .screen-6 .subheading {
+    text-align: center;
+    font-size: 1.5em;
+    margin: 0;
+  }
+  .screen-6 .leftsubheading {
+    font-size: 1.75em;
+  }
+  .screen-6 .wheel {
+    padding-bottom: 10px;
+  }
+  .screen-6 .rightsubheading {
+    text-align: right;
+    padding-top: 10px;
+    font-weight: bold;
+  }
+  .screen-6 .lhead {
+    margin: 0;
+  }
+  .screen-6 .col-sm {
+    padding: 0;
+  }
+  .screen-6 .pad {
+    padding: 20px;
+  }
+  .screen-6 .toppad {
+    padding-top: 2vw;
+  }
+  .screen-6 .answer {
+    font-size: 1.5em;
+    color: grey;
+  }
+  .screen-6 .dropdown {
+    width: 75%;
+    margin-top: 2vw;
+  }
+  .screen-6 .container4 {
+    padding: 1vw 3vw 3vw 3vw;
+    text-align: center;
+  }
+  .screen-6 .container5 {
+    text-align: center;
+    padding-bottom: 3vw;
+    color: #467de4;
+    text-decoration: underline;
+  }
+  .screen-6 .jumbo {
+    background-image: url("./bg.jpg");
+    height: 32vh;
+    opacity: 1;
+    border-radius: 0rem;
+  }
+  .screen-6 .round-img {
+    border-radius: 80%;
+    height: 5vh;
+    width: 3vw;
+  }
+  .screen-6 .btn {
+    margin: 0vw 0.5vw;
+    width: 10vw;
+  }
+  .screen-6 .mycolor {
+    background-color: #467de4;
+    color: white;
+  }
+  .screen-6 .form-check {
+    font-size: larger;
+    margin: 2vw;
+  }
+  .screen-6 .container6 {
+    padding: 0.25vw 0vw;
+  }
+  .screen-6 .h2-title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 0rem;
+    font-size: x-large;
+    font-weight: 150;
+    color: whitesmoke;
+  }
+  .screen-6 label .dropdown {
+    width: 30vw;
+  }
+  .screen-6 textarea {
+    width: 80vw !important;
+  }
+  .screen-6 .optiontext {
+    font-size: medium;
+  }
+  .screen-6 .radioquestion {
+    margin-top: 0px;
+  }
+
+  /*...................Kartik (Screen 7)..................*/
+  .screen-7 {
+    /* Jumbotron styles end */
+    /*Category Information start*/
+    /*Category Information style end*/
+    /* Details start */
+    /* Details end */
+    /*Additional Optional Container start */
+  }
+  .screen-7 .jumbo {
+    background-image: url("./bg.jpg");
+    height: 32vh;
+    opacity: 1;
+    border-radius: 0rem;
+  }
+  .screen-7 .round-img {
+    border-radius: 80%;
+    height: 5vh;
+    width: 3vw;
+  }
+  .screen-7 #companyName {
+    height: 100%;
+    text-align: start;
+  }
+  .screen-7 #user {
+    height: 100%;
+    text-align: end;
+  }
+ 
+  .screen-7 .col .align-self-end {
+    vertical-align: baseline;
+  }
+  .screen-7 .avatar {
+    vertical-align: middle;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+  }
+  .screen-7 #categoryRow {
+    height: 20vh;
+  }
+  .screen-7 #categoryIcon {
+    width: 5vh;
+  }
+  .screen-7 #categoryName {
+    text-align: start;
+  }
+  .screen-7 #categoryName p:nth-child(1) {
+    font-size: 2vh;
+  }
+  .screen-7 #categoryName p:nth-child(2) {
+    font-size: 4vh;
+    font-weight: lighter;
+  }
+  .screen-7 #categoryMiddleText {
+    text-align: center;
+    font-size: 4vh;
+    font-weight: 350;
+  }
+  .screen-7 #policyNumber {
+    font-weight: bold;
+  }
+  .screen-7 .detailsContainer {
+    padding-left: 1vw;
+  }
+  .screen-7 .detailsContainer .row {
+    width: 90%;
+    padding: 3vh;
+    background-color: #f1f0f0;
+    margin: 0 auto 0 auto;
+  }
+  .screen-7 .detailsContainer .row h5 {
+    font-weight: lighter;
+  }
+  .screen-7 .detailsContainer .row:nth-child(1) {
+    /* border-bottom: grey solid 1px !important; */
+  }
+  .screen-7 .detailsContainer img {
+    width: 4vh;
+  }
+  .screen-7 .additionaloptionalContainer {
+    padding-left: 1vw;
+  }
+  .screen-7 .additionaloptionalContainer .row {
+    width: 90%;
+    padding: 3vh;
+    background-color: #f1f0f0;
+    margin: 0 auto 0 auto;
+  }
+  .screen-7 .additionaloptionalContainer .row h5 {
+    font-weight: lighter;
+  }
+  .screen-7 .additionaloptionalContainer img {
+    width: 4vh;
+  }
+  .screen-7 .h2-title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 0rem;
+    font-size: x-large;
+    font-weight: 150;
+  }
+  .screen-7 #addDriver {
+    border-radius: 5px;
+    border: none;
+    height: 10vh;
+    width: 20vw;
+    color: white;
+    font-size: 3vh;
+    background-color: blue;
+  }
+  .screen-7 #navigationButtonsContainer {
+    background-color: white;
+    text-align: center;
+  }
+  .screen-7 #navigationButtonsContainer button {
+    width: 10vw;
+  }
+  .screen-7 #returnHomeLink {
+    background-color: white;
+    text-align: center;
+    text-decoration: underline;
+  }
